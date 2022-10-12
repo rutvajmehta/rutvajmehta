@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rutvajmehta
 - 👀 I’m interested in learning about machine learning. 
-- 🌱 I’m currently studying for the AP Computer Science Principle exam and I've already taken the AP Computer Science A exam. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying Software Design and Data Structures at Virginia Tech (expected graduation spring 2025)
 - 📫 I can be reached by email at rutvajmehta@gmail.com
 
 <!---
